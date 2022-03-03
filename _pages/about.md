@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for stopping by. This is a brief self-introduction page about me, Feng Xu. Here you can check out my [GitHub](https://github.com/FengFred) (a place where you can find my *fork* codes of Praat, R, and Python), my email address (feel free to contact me with anything you want to share with me), and a secret place of my Twitter and Weibo.
+Thank you for stopping by. This is a brief self-introduction page about me, Feng Xu. Here you can check out my [GitHub](https://github.com/AlisterFengXu) (a place where you can find my *fork* codes of Praat, R, and Python), my email address (feel free to contact me with anything you want to share with me), and a secret place of my Twitter and Weibo.
 
-I am currently a Phd candidate in at [Macquarie Department of Linguistics](https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-linguistics), belonging to [Child Language Lab](https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-linguistics/our-research/child-language-acquisition/child-language-lab). My research centers on **suprasegmental features of speech**, especially on the following topics:
+I am currently a Phd candidate in at [Macquarie University Department of Linguistics](https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-linguistics), belonging to [Child Language Lab](https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-linguistics/our-research/child-language-acquisition/child-language-lab). My research centers on **suprasegmental features of speech**, especially on the following topics:
 
 - Acoustic features of tone and intonation (pitch, duration, and amplitude)
 - Roles of tone and intonation in expressing linguistic and paralinguistic meanings
